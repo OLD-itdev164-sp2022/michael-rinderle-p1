@@ -1,0 +1,36 @@
+﻿Project 1 - ITDEV-164
+Create a website that utilizes the web development technologies specified 
+in Requirement 1.
+
+You may use any additional technologies or libraries you wish.
+
+Requirement 1
+Utilize the following technologies:
+● Gatsby
+● React
+● Styled Components
+● Contentful (or another Gatsby-compatible CMS)
+● Netlify
+
+Requirement 2
+Plan your project.* This activity should produce the following outcomes:
+● Project description
+● Feature list
+List of tasks or user stories for each feature
+● Create a requirements document containing these items
+* You may plan your project either alone or with a partner, though each student should complete
+and submit their own work.
+
+Requirement 3
+Manage your work using GitHub workflows, including:
+● Create a new repo for your project named as firstname-lastname-p1
+● Optional: Create a GitHub issue for each of your stories (you may create and organize
+these tasks as you wish in order to help you manage your work)
+● Optional: Add a tag to each story/issue identifying the feature it belongs to
+● Optional: Invite a classmate to code review your pull requests, and provide code reviews
+for classmates
+
+Submit Your Project
+1. Open Project 1 from the Assignments area on Blackboard
+2. Attach your requirements document and GitHub URL
+3. Click Submit
