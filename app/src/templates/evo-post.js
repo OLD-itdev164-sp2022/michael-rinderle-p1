@@ -61,7 +61,7 @@ const EvoPost = ({ data }) => {
 export default EvoPost;
 
 export const evoQuery = graphql`
-query evoPostQuery($slug: String!) {
+query evoPostQuery($slug: String) {
     contentfulEvo(slug: {eq: $slug}) {
         model
         created
